@@ -1,3 +1,3 @@
 # papers
 
-[The Straussian Moment - Peter Thiel](straussian_moment.pdf)
+[The Straussian Moment - Peter Thiel (pdf)](straussian_moment.pdf)
